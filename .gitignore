@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 data/*.db-wal
 data/*.db-shm
+data/uploads/
